@@ -34,9 +34,13 @@
 *Python · Flask · YOLOv8 · LLM · GenAI · OpenAI · React Native*  
 → Real-time coffee leaf disease detection app with OCR and a LangChain-based RAG pipeline for farmer support.
 
-#### 🛒 [Fashion Fiesta](https://github.com/imadhajaz/Fashion-Fiesta)   
+#### 🛒 [Fashion Fiesta](https://github.com/imadhajaz/Fashion-Fiesta)  
 *E-commerce · Cart Optimization · Delivery Intelligence*  
 → Implemented a zip code-based multi-delivery cart system with unified payment for all sub-orders.
+
+#### 🎭 [Deepfake Detection](#)  
+*Python · OpenCV · Deep Learning · Transformers*  
+→ Built a detection pipeline to flag video tampering using facial landmark shifts and temporal artifacts. Combined CNNs and transformer-based models to improve detection performance on challenging datasets.
 
 ---
 
@@ -75,6 +79,6 @@
 
 ### 🌐 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/imadh-ajaz-4a6a041b3)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ixb8309@mavs.uta.edu)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imadhajaz)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ixb8309@mavs.uta.edu)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imadhajaz)
