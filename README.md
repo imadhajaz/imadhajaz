@@ -1,10 +1,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spark-FF8C00?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
@@ -58,11 +60,13 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
-![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=apachehadoop)
+![LLMs](https://img.shields.io/badge/-LLMs-05122A?style=flat&logo=openai)
+![Open Source](https://img.shields.io/badge/-Open%20Source-05122A?style=flat&logo=github)
+![Cloud](https://img.shields.io/badge/-Cloud-05122A?style=flat&logo=cloudflare)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure)
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apachespark)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
