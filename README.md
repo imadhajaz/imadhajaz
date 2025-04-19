@@ -26,7 +26,7 @@
 
 ### 🚀 Featured Projects
 
-#### 💸 [MoneyMind](https://github.com/SOM3-1/MoneyMind)  
+#### 💸 [MoneyMind]([https://github.com/SOM3-1/MoneyMind](https://github.com/imadhajaz/MoneyMind))  
 *React Native · Node.js · Python · Firebase · Plaid API*  
 → An AI-powered app that categorizes transactions with 90%+ accuracy and recommends personalized budgets.
 
