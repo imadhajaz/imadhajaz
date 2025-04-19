@@ -44,7 +44,7 @@
 
 #### 💬 [Bubble Chat Application](https://github.com/imadhajaz/Bubble-Chat-Application)  
 *Flutter · Dart · Firebase · Firestore*  
-→ A real-time messaging app with typing indicators, user presence, and modern bubble-style UI. Integrated Firebase Auth and Firestore for seamless authentication and data sync.
+→ A real-time healthcare messaging app with typing indicators, user presence, and modern UI. Integrated Firebase Auth and Firestore for seamless authentication and data sync.
 
 ---
 
