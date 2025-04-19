@@ -38,7 +38,7 @@
 *E-commerce · Cart Optimization · Delivery Intelligence*  
 → Implemented a zip code-based multi-delivery cart system with unified payment for all sub-orders.
 
-#### 🎭 [Deepfake Detection](#)  
+#### 🎭 [Deepfake Detection](https://github.com/imadhajaz/DeepFake-Detection)  
 *Python · OpenCV · Deep Learning · Transformers*  
 → Built a detection pipeline to flag video tampering using facial landmark shifts and temporal artifacts. Combined CNNs and transformer-based models to improve detection performance on challenging datasets.
 
