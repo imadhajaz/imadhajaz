@@ -42,6 +42,10 @@
 *Python · OpenCV · Deep Learning · Transformers*  
 → Built a detection pipeline to flag video tampering using facial landmark shifts and temporal artifacts. Combined CNNs and transformer-based models to improve detection performance on challenging datasets.
 
+#### 💬 [Bubble Chat Application](https://github.com/imadhajaz/Bubble-Chat-Application)  
+*Flutter · Dart · Firebase · Firestore*  
+→ A real-time messaging app with typing indicators, user presence, and modern bubble-style UI. Integrated Firebase Auth and Firestore for seamless authentication and data sync.
+
 ---
 
 ### 📚 Publications
