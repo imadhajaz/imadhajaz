@@ -27,7 +27,7 @@
 ### 🚀 Featured Projects
 
 #### 💸 [MoneyMind](https://github.com/imadhajaz/MoneyMind) 
-*React Native · Node.js · Python · Firebase · Plaid API*  
+*React Native · Node.js · Firebase · Plaid API*  
 → An AI-powered app that categorizes transactions with 90%+ accuracy and recommends personalized budgets.
 
 #### ☕ [CoffeeCare](https://github.com/imadhajaz/Coffee-Care)  
