@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Spark-FF8C00?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ---
@@ -16,51 +17,51 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Graduate Student**, [University of Texas at Arlington (UTA)](https://www.uta.edu/), MS in Computer Science (GPA: 4.0)
+- 🎓 **Graduate Student**, [University of Texas at Arlington (UTA)](https://www.uta.edu/), MS in Computer Science (GPA: 4.0)  
 - 💼 **Software Developer Intern**, [Velozity Global Solutions](https://www.velozityglobal.com/)  
-  → Built full-stack solutions using Express.js, improved API performance with Postman.
-- 🔧 **Technical Lead**, [<CodeIO/> BMSCE](https://www.bmsce.ac.in/)  
-  → Mentored 10+ students to expand the college ERP portal.
+  → Developed full-stack web solutions using Express.js and React, and improved API performance through Postman-based testing.  
+- 🔧 **Tech Lead**, [<CodeIO/> BMSCE](https://www.bmsce.ac.in/)  
+  → Mentored 10+ junior developers and expanded modules in the ERP portal, improving usability and performance.  
+- 👨‍🔬 **AI R&D Intern**, [Vivum.app](https://vivum.app) *(Remote – Doha, Qatar)*  
+  → Contributed to the company’s proprietary research product built on a Retrieval-Augmented Generation (RAG) model, focused on AI-driven content understanding and response generation.  
+- 🤖 Conducted research using Hugging Face Transformers for tasks like vision-language modeling and generative pipelines.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 💸 [MoneyMind](https://github.com/imadhajaz/MoneyMind) 
+#### 💸 [MoneyMind](https://github.com/imadhajaz/MoneyMind)  
 *React Native · Node.js · Firebase · Plaid API*  
-→ An AI-powered app that categorizes transactions with 90%+ accuracy and recommends personalized budgets.
+→ An intelligent personal finance tracker categorizing transactions with 90%+ accuracy and providing smart budget insights.
 
 #### ☕ [CoffeeCare](https://github.com/imadhajaz/Coffee-Care)  
-*Python · Flask · YOLOv8 · LLM · GenAI · OpenAI · React Native*  
-→ Real-time coffee leaf disease detection app with OCR and a LangChain-based RAG pipeline for farmer support.
+*Python · Flask · YOLOv8 · OpenAI · LangChain*  
+→ Real-time coffee leaf disease detection app with OCR and an LLM-based retrieval QA pipeline for farmer support.
 
 #### 🛒 [Fashion Fiesta](https://github.com/imadhajaz/Fashion-Fiesta)  
-*E-commerce · Cart Optimization · Delivery Intelligence*  
-→ Implemented a zip code-based multi-delivery cart system with unified payment for all sub-orders.
+*E-commerce · React · Node · Delivery Intelligence*  
+→ Implemented a smart multi-delivery cart split system by zip code, with unified payment processing across sub-orders.
 
 #### 🎭 [Deepfake Detection](https://github.com/imadhajaz/DeepFake-Detection)  
-*Python · OpenCV · Deep Learning · Transformers*  
-→ Built a detection pipeline to flag video tampering using facial landmark shifts and temporal artifacts. Combined CNNs and transformer-based models to improve detection performance on challenging datasets.
+*Python · OpenCV · CNN · Transformers*  
+→ Built a hybrid CNN-transformer pipeline to detect tampered videos using subtle facial shifts and temporal inconsistencies.
 
 #### 💬 [Bubble Chat Application](https://github.com/imadhajaz/Bubble-Chat-Application)  
 *Flutter · Dart · Firebase · Firestore*  
-→ A real-time healthcare messaging app with typing indicators, user presence, and modern UI. Integrated Firebase Auth and Firestore for seamless authentication and data sync.
+→ A secure real-time healthcare chat app featuring typing indicators, presence tracking, and sleek material UI.
 
 ---
 
 ### 📚 Publications
 
 1. 📄 **Overcoming LLM Challenges using RAG-Driven Precision in Coffee Leaf Disease Remediation**  
-   *IEEE ICETCS 2024*  
-   [DOI: 10.1109/ICETCS61022.2024.10543859](https://ieeexplore.ieee.org/document/10543859)
+   *IEEE ICETCS 2024* — [DOI: 10.1109/ICETCS61022.2024.10543859](https://ieeexplore.ieee.org/document/10543859)
 
 2. 🧠 **Vision Encoder-Decoder Models for AI Coaching**  
-   *IEEE INOCON 2024*  
-   [DOI: 10.1109/INOCON60754.2024.10512280](https://ieeexplore.ieee.org/document/10512280)
+   *IEEE INOCON 2024* — [DOI: 10.1109/INOCON60754.2024.10512280](https://ieeexplore.ieee.org/document/10512280)
 
 3. 🌍 **Language Detection for Transliterated Content**  
-   *IEEE 2024*  
-   [DOI: 10.1109/IEEECONF58110.2023.10520601](https://ieeexplore.ieee.org/document/10520601)
+   *IEEE 2024* — [DOI: 10.1109/IEEECONF58110.2023.10520601](https://ieeexplore.ieee.org/document/10520601)
 
 ---
 
@@ -76,8 +77,8 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
-![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface)
 
 ---
 
