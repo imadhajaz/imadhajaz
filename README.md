@@ -21,7 +21,7 @@
 - 💼 **Software Developer Intern**, [Velozity Global Solutions](https://www.velozityglobal.com/)  
   → Developed full-stack web solutions using Express.js and React, and improved API performance through Postman-based testing.  
 - 🔧 **Tech Lead**, [<CodeIO/> BMSCE](https://www.bmsce.ac.in/)  
-  → Mentored 10+ junior developers and expanded modules in the ERP portal, improving usability and performance.  
+  → Mentored 10+ junior developers and expanded modules in the BMSCE student-faculty ERP portal, improving usability and performance.  
 - 👨‍🔬 **AI R&D Intern**, [Vivum.app](https://vivum.app) *(Remote – Doha, Qatar)*  
   → Contributed to the company’s proprietary research product built on a Retrieval-Augmented Generation (RAG) model, focused on AI-driven content understanding and response generation.  
 - 🤖 Conducted research using Hugging Face Transformers for tasks like vision-language modeling and generative pipelines.
