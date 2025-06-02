@@ -29,7 +29,7 @@
   → Mentored 10+ junior developers and expanded modules in the BMSCE student-faculty ERP portal, improving usability and performance.  
 - 👨‍🔬 **AI R&D Intern**, [Vivum.app](https://vivum.app) *(Remote – Doha, Qatar)*  
   → Contributed to the company’s proprietary research product built on a Retrieval-Augmented Generation (RAG) model, focused on AI-driven content understanding and response generation using vector DBs like Pinecone and FAISS.  
-- 🤖 Conducted research using Hugging Face Transformers, Streamlit dashboards, and vector stores like ChromaDB for vision-language modeling and retrieval pipelines.
+- 🤖 Conducted research using Hugging Face Transformers, Streamlit dashboards, and vector stores like ChromaDB, FAISS, and Pinecone for vision-language modeling and retrieval pipelines.
 
 ---
 
