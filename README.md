@@ -2,13 +2,18 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-00BFFF?style=for-the-badge&logo=pinecone&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spark-FF8C00?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
@@ -20,11 +25,11 @@
 - 🎓 **Graduate Student**, [University of Texas at Arlington (UTA)](https://www.uta.edu/), MS in Computer Science (GPA: 4.0)  
 - 💼 **Software Developer Intern**, [Velozity Global Solutions](https://www.velozityglobal.com/)  
   → Developed full-stack web solutions using Express.js and React, and improved API performance through Postman-based testing.  
-- 🔧 **Tech Lead**, [CodeIO, BMSCE](https://www.bmsce.ac.in/)  
+- 🔧 **Tech Lead**, [CodeIO, BMSCE](https://www.linkedin.com/company/codeio-bmsce/posts/?feedView=all)  
   → Mentored 10+ junior developers and expanded modules in the BMSCE student-faculty ERP portal, improving usability and performance.  
 - 👨‍🔬 **AI R&D Intern**, [Vivum.app](https://vivum.app) *(Remote – Doha, Qatar)*  
-  → Contributed to the company’s proprietary research product built on a Retrieval-Augmented Generation (RAG) model, focused on AI-driven content understanding and response generation.  
-- 🤖 Conducted research using Hugging Face Transformers for tasks like vision-language modeling and generative pipelines.
+  → Contributed to the company’s proprietary research product built on a Retrieval-Augmented Generation (RAG) model, focused on AI-driven content understanding and response generation using vector DBs like Pinecone and FAISS.  
+- 🤖 Conducted research using Hugging Face Transformers, Streamlit dashboards, and vector stores like ChromaDB for vision-language modeling and retrieval pipelines.
 
 ---
 
@@ -35,8 +40,8 @@
 → An intelligent personal finance tracker categorizing transactions with 90%+ accuracy and providing smart budget insights.
 
 #### ☕ [CoffeeCare](https://github.com/imadhajaz/Coffee-Care)  
-*Python · Flask · YOLOv8 · OpenAI · LangChain*  
-→ Real-time coffee leaf disease detection app with OCR and an LLM-based retrieval QA pipeline for farmer support.
+*Python · Flask · YOLOv8 · OpenAI · LangChain · RAG · ChromaDB*  
+→ Real-time coffee leaf disease detection app with OCR and an LLM-based retrieval QA pipeline for farmer support. Integrated vector search via ChromaDB.
 
 #### 🛒 [Fashion Fiesta](https://github.com/imadhajaz/Fashion-Fiesta)  
 *E-commerce · React · Node · Delivery Intelligence*  
@@ -70,6 +75,11 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![LLMs](https://img.shields.io/badge/-LLMs-05122A?style=flat&logo=openai)
+![RAG](https://img.shields.io/badge/-RAG-05122A?style=flat&logo=openai)
+![Pinecone](https://img.shields.io/badge/-Pinecone-05122A?style=flat&logo=pinecone)
+![FAISS](https://img.shields.io/badge/-FAISS-05122A?style=flat&logo=meta)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-05122A?style=flat&logo=databricks)
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-05122A?style=flat&logo=github)
 ![Cloud](https://img.shields.io/badge/-Cloud-05122A?style=flat&logo=cloudflare)
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure)
