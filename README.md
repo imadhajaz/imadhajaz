@@ -43,10 +43,6 @@
 *Python · Flask · YOLOv8 · OpenAI · LangChain · RAG · ChromaDB*  
 → Real-time coffee leaf disease detection app with OCR and an LLM-based retrieval QA pipeline for farmer support. Integrated vector search via ChromaDB.
 
-#### 🛒 [Fashion Fiesta](https://github.com/imadhajaz/Fashion-Fiesta)  
-*E-commerce · React · Node · Delivery Intelligence*  
-→ Implemented a smart multi-delivery cart split system by zip code, with unified payment processing across sub-orders.
-
 #### 🎭 [Deepfake Detection](https://github.com/imadhajaz/DeepFake-Detection)  
 *Python · OpenCV · CNN · Transformers*  
 → Built a hybrid CNN-transformer pipeline to detect tampered videos using subtle facial shifts and temporal inconsistencies.
@@ -54,6 +50,10 @@
 #### 💬 [Bubble Chat Application](https://github.com/imadhajaz/Bubble-Chat-Application)  
 *Flutter · Dart · Firebase · Firestore*  
 → A secure real-time healthcare chat app featuring typing indicators, presence tracking, and sleek material UI.
+#### 🛒 [Fashion Fiesta](https://github.com/imadhajaz/Fashion-Fiesta)  
+*E-commerce · React · Node · Delivery Intelligence*  
+→ Implemented a smart multi-delivery cart split system by zip code, with unified payment processing across sub-orders.
+
 
 ---
 
