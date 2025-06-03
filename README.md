@@ -23,6 +23,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **Graduate Student**, [University of Texas at Arlington (UTA)](https://www.uta.edu/), MS in Computer Science (GPA: 4.0)  
+- 💻 **Data Science Intern**, *Vensora Inc.*, Boise, Idaho *(Remote — June 2025 to Present)*  
+  → Working on intelligent pipelines for Wegwiser, combining LLMs with vector databases to enhance contextual information retrieval.  
 - 💼 **Software Developer Intern**, [Velozity Global Solutions](https://www.velozityglobal.com/)  
   → Developed full-stack web solutions using Express.js and React, and improved API performance through Postman-based testing.  
 - 🔧 **Tech Lead**, [CodeIO, BMSCE](https://www.linkedin.com/company/codeio-bmsce/posts/?feedView=all)  
@@ -50,10 +52,10 @@
 #### 💬 [Bubble Chat Application](https://github.com/imadhajaz/Bubble-Chat-Application)  
 *Flutter · Dart · Firebase · Firestore*  
 → A secure real-time healthcare chat app featuring typing indicators, presence tracking, and sleek material UI.
+
 #### 🛒 [Fashion Fiesta](https://github.com/imadhajaz/Fashion-Fiesta)  
 *E-commerce · React · Node · Delivery Intelligence*  
 → Implemented a smart multi-delivery cart split system by zip code, with unified payment processing across sub-orders.
-
 
 ---
 
@@ -75,25 +77,4 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![LLMs](https://img.shields.io/badge/-LLMs-05122A?style=flat&logo=openai)
-![RAG](https://img.shields.io/badge/-RAG-05122A?style=flat&logo=openai)
-![Pinecone](https://img.shields.io/badge/-Pinecone-05122A?style=flat&logo=pinecone)
-![FAISS](https://img.shields.io/badge/-FAISS-05122A?style=flat&logo=meta)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-05122A?style=flat&logo=databricks)
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)
-![Open Source](https://img.shields.io/badge/-Open%20Source-05122A?style=flat&logo=github)
-![Cloud](https://img.shields.io/badge/-Cloud-05122A?style=flat&logo=cloudflare)
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure)
-![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apachespark)
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface)
-
----
-
-### 🌐 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imadh-ajaz-4a6a041b3)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ixb8309@mavs.uta.edu)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imadhajaz)
+![RAG](https://img.shields.io/badge)
