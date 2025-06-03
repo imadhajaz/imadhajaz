@@ -24,7 +24,7 @@
 
 - 🎓 **Graduate Student**, [University of Texas at Arlington (UTA)](https://www.uta.edu/), MS in Computer Science (GPA: 4.0)  
 - 💻 **Data Science Intern**, *Vensora Inc.*, Boise, Idaho *(Remote — June 2025 to Present)*  
-  → Working on intelligent pipelines for Wegwiser, combining LLMs with vector databases to enhance contextual information retrieval.  
+  → Working on intelligent pipelines for Wegwiser, combining LLMs with vector databases and graph RAGs to enhance contextual information retrieval.  
 - 💼 **Software Developer Intern**, [Velozity Global Solutions](https://www.velozityglobal.com/)  
   → Developed full-stack web solutions using Express.js and React, and improved API performance through Postman-based testing.  
 - 🔧 **Tech Lead**, [CodeIO, BMSCE](https://www.linkedin.com/company/codeio-bmsce/posts/?feedView=all)  
