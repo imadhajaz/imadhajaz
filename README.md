@@ -23,7 +23,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **Graduate Student**, [University of Texas at Arlington (UTA)](https://www.uta.edu/), MS in Computer Science (GPA: 4.0)  
-- 💻 **Data Science Intern**, [Vensora Inc.]([https://www.velozityglobal.com/](https://www.linkedin.com/company/vensora-in/posts/?feedView=all))  , Boise, Idaho *(Remote — June 2025 to Present)*  
+- 💻 **Data Science Intern**, [Vensora Inc.]([https://www.velozityglobal.com/](https://www.linkedin.com/company/vensora-in/posts/?feedView=all)/)  , Boise, Idaho *(Remote — June 2025 to Present)*  
   → Working on intelligent pipelines for Wegwiser, combining LLMs with vector databases and graph RAGs to enhance contextual information retrieval.  
 - 💼 **Software Developer Intern**, [Velozity Global Solutions](https://www.velozityglobal.com/)  
   → Developed full-stack web solutions using Express.js and React, and improved API performance through Postman-based testing.  
