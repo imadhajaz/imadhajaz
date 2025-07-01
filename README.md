@@ -25,6 +25,7 @@
 - 🎓 **Graduate Student**, [University of Texas at Arlington (UTA)](https://www.uta.edu/), MS in Computer Science (GPA: 4.0)  
 - 💻 **Data Science Intern**, [Vensora Inc.](https://www.linkedin.com/company/vensora-in/posts/?feedView=all), Dallas, TX, United States *(Remote — June 2025 to Present)*  
   → Building and integrating RAG and AI agent workflows into a FastAPI + Node.js microservices stack with ChromaDB and AWS S3 for semantic retrieval and storage.
+
   → Managing CI/CD pipelines, PostgreSQL session tracking, and Auth0-based RBAC to deliver production-grade, role-aware AI features.
 - 💼 **Software Developer Intern**, [Velozity Global Solutions](https://www.velozityglobal.com/)  
   → Developed full-stack web solutions using Express.js and React, and improved API performance through Postman-based testing.  
