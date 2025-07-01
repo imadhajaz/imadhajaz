@@ -78,4 +78,3 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![LLMs](https://img.shields.io/badge/-LLMs-05122A?style=flat&logo=openai)
-![RAG](https://img.shields.io/badge)
