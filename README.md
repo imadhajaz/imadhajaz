@@ -23,13 +23,18 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **Graduate Student**, [University of Texas at Arlington (UTA)](https://www.uta.edu/), MS in Computer Science (GPA: 4.0)  
-- 💻 **Data Science Intern**, [Vensora Inc.](https://www.linkedin.com/company/vensora-in/posts/?feedView=all), Dallas, TX, United States *(Remote — June 2025 to Present)*
+- 💻 **Data Science Intern**, [Vensora Inc.](https://www.linkedin.com/company/vensora-in/posts/?feedView=all), Dallas, TX, United States *(Remote — June 2025 to Aug 2025)*
    
-  → Building and integrating RAG and AI agent workflows into a FastAPI + Node.js microservices stack with ChromaDB and AWS S3 for semantic retrieval and storage.
+  → Developed AI agent and RAG pipelines for generative Product and Design AI features, improving semantic retrieval accuracy by 15\% and reducing data processing latency by 20\% through fine-tuned prompt engineering and data-driven workflow enhancements.
 
-  → Managing CI/CD pipelines, PostgreSQL session tracking, and Auth0-based RBAC to deliver production-grade, role-aware AI features.
-- 💼 **Software Developer Intern**, [Velozity Global Solutions](https://www.velozityglobal.com/)  
-  → Developed full-stack web solutions using Express.js and React, and improved API performance through Postman-based testing.  
+  → Led the full-stack deployment of AI-powered microservices on AWS, overseeing the integration of FastAPI, Node.js, and AWS RDS databases running on PostgreSQL engine to deliver production-grade, dynamic AI features.
+
+ → Implemented a scalable MLOps pipeline using GitHub Actions, automating CI/CD workflows for AI models and microservices to ensure continuous delivery and reliable feature releases for a SaaS platform.
+
+  
+- 💼 **Software Engineer Intern**, [Velozity Global Solutions](https://www.velozityglobal.com/)  
+  → Worked on the deployment of a full-stack solution by integrating front-end and backend services with Express.js, architecting a scalable microservices architecture that improved application load times by 15\% for key user-facing pages.
+  → Implemented automated API testing protocols using Postman and orchestrated CI/CD pipelines to ensure continuous integration, reducing manual testing effort and improving API response times by an average of 30 milliseconds across all endpoints.
 - 🔧 **Tech Lead**, [CodeIO, BMSCE](https://www.linkedin.com/company/codeio-bmsce/posts/?feedView=all)  
   → Mentored 10+ junior developers and expanded modules in the BMSCE student-faculty ERP portal, improving usability and performance.    
 - 🤖 Conducted research using Hugging Face Transformers, Streamlit dashboards, and vector stores like ChromaDB, FAISS, and Pinecone for vision-language modeling and retrieval pipelines.
