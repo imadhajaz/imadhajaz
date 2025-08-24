@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Graduate Student**, [University of Texas at Arlington (UTA)](https://www.uta.edu/), MS in Computer Science (GPA: 4.0--Aug 2024 to May 2026)  
+- 🎓 **Graduate Student**, [University of Texas at Arlington (UTA)](https://www.uta.edu/), MS in Computer Science (GPA: 4.0—Aug 2024 to May 2026)  
 - 💻 **Data Science Intern**, [Vensora Inc.](https://www.linkedin.com/company/vensora-in/posts/?feedView=all), Dallas, TX, United States *(Remote — June 2025 to Aug 2025)*
    
   → Developed AI agent and RAG pipelines for generative Product and Design AI features, improving semantic retrieval accuracy by 15\% and reducing data processing latency by 20\% through fine-tuned prompt engineering and data-driven workflow enhancements.
