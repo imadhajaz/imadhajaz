@@ -29,10 +29,11 @@
 
   → Led the full-stack deployment of AI-powered microservices on AWS, overseeing the integration of FastAPI, Node.js, and AWS RDS databases running on PostgreSQL engine to deliver production-grade, dynamic AI features.
   
- → Implemented a scalable MLOps pipeline using GitHub Actions, automating CI/CD workflows for AI models and microservices to ensure continuous delivery and reliable feature releases for a SaaS platform.
+  → Implemented a scalable MLOps pipeline using GitHub Actions, automating CI/CD workflows for AI models and microservices to ensure continuous delivery and reliable feature releases for a SaaS platform.
 
   
-- 💼 **Software Engineer Intern**, [Velozity Global Solutions](https://www.velozityglobal.com/)  
+- 💼 **Software Engineer Intern**, [Velozity Global Solutions](https://www.velozityglobal.com/)
+    
   → Worked on the deployment of a full-stack solution by integrating front-end and backend services with Express.js, architecting a scalable microservices architecture that improved application load times by 15\% for key user-facing pages.
   
   → Implemented automated API testing protocols using Postman and orchestrated CI/CD pipelines to ensure continuous integration, reducing manual testing effort and improving API response times by an average of 30 milliseconds across all endpoints.
