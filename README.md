@@ -22,17 +22,48 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Graduate Student**, [University of Texas at Arlington (UTA)](https://www.uta.edu/), MS in Computer Science (GPA: 4.0—Aug 2024 to May 2026)  
-- 💻 **Data Science Intern**, [Vensora Inc.](https://www.linkedin.com/company/vensora-in/posts/?feedView=all), Dallas, TX, United States *(Remote — June 2025 to Dec 2025)*
+- 🎓 **Graduate Student**, [University of Texas at Arlington (UTA)](https://www.uta.edu/), MS in Computer Science (GPA: 4.0—Aug 2024 to May 2026) 
+
+- 💻 **Machine Learning Engineer Intern**, [Vensora Inc.](https://www.linkedin.com/company/vensora-in/posts/?feedView=all), Dallas, TX, United States *(Remote — Sep 2025 to Dec 2025)*
    
-  → Developed AI agent and RAG pipelines for generative Product and Design AI features, improving semantic retrieval accuracy by 15\% and reducing data processing latency by 20\% through fine-tuned prompt engineering and data-driven workflow enhancements.
+  → Scaled the platform into a production-ready AI system for automated code generation, reducing manual engineering effort by ~70%
 
-  → Led the full-stack deployment of AI-powered microservices on AWS, overseeing the integration of FastAPI, Node.js, and AWS RDS databases running on PostgreSQL engine to deliver production-grade, dynamic AI features.
+  → Built multi-step, asynchronous AI pipelines, improving system reliability, observability, and workflow orchestration
   
-  → Implemented a scalable MLOps pipeline using GitHub Actions, automating CI/CD workflows for AI models and microservices to ensure continuous delivery and reliable feature releases for a SaaS platform.
+  → Developed AI agent-based validation and self-correction loops, increasing successful generation rates by ~3x
+
+  → Designed agent memory mechanisms leveraging relational (PostgreSQL) and object storage (S3) to track progress, maintain context, and enable stateful multi-step workflows
+
+  → Implemented MLOps-driven improvements, including monitoring, validation layers, and iterative feedback pipelines for consistent AI outputs
+
+  → Improved system robustness through structured outputs and schema validation, significantly reducing failure cases
+
+  → Optimized end-to-end generation performance and consistency for real-world usage and large-scale workflows
+
+  → Completed system deployment aligning it for enterprise production use
+
+- 💻 **Machine Learning Engineer Intern**, [Vensora Inc.](https://www.linkedin.com/company/vensora-in/posts/?feedView=all), Dallas, TX, United States *(Remote — Sep 2025 to Dec 2025)*
+
+  → Led development of an AI-powered platform for automated application and code generation from structured requirements
+
+  → Built LLM-driven code generation workflows, transforming high-level inputs into full-stack application components
+  
+  → Developed context-aware (RAG-based) AI systems, improving output accuracy and reducing hallucination-related failures by ~40%
+
+  → Designed core system architecture and service interfaces, enabling scalable interaction between AI services and backend systems
+
+  → Implemented persistent context and memory layers using PostgreSQL and object storage (S3) to maintain structured state and support context-aware generation across workflows
+ 
+  → Established early MLOps practices for LLM pipelines, including reproducible workflows, evaluation loops, and structured output handling
+
+  → Collaborated across design and engineering to align AI-generated outputs with real product workflows and requirements
+  
+  → Actively contributed in Scrum meetings and Agile sprints, collaborating cross-functionally to deliver GenAI features
+  
+  → Led foundational engineer role in defining the technical direction and foundational architecture of an early-stage AI product
 
   
-- 💼 **Software Engineer Intern**, [Velozity Global Solutions](https://www.velozityglobal.com/)
+- 💻 **Software Engineer Intern**, [Velozity Global Solutions](https://www.velozityglobal.com/)
     
   → Worked on the deployment of a full-stack solution by integrating front-end and backend services with Express.js, architecting a scalable microservices architecture that improved application load times by 15\% for key user-facing pages.
   
