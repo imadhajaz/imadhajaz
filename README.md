@@ -26,6 +26,8 @@
 
 - 🎓 **Graduate Student**, [University of Texas at Arlington (UTA)](https://www.uta.edu/), MS in Computer Science (GPA: 4.0—Aug 2024 to May 2026) 
 
+- 🎓 **Bachelor of Engineering (Computer Science)**, [B. M. S. College of Engineering](https://www.bmsce.ac.in), Bangalore, India (GPA: 3.5 — Aug 2020 to June 2024)
+
 - 💻 **Machine Learning Engineer Intern**, [Vensora Inc.](https://www.linkedin.com/company/vensora-in/posts/?feedView=all), Dallas, TX, United States *(Remote — Sep 2025 to Dec 2025)*
    
   → Scaled the platform into a production-ready AI system for automated code generation, reducing manual engineering effort by ~70%
