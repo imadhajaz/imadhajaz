@@ -114,8 +114,59 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
-![LLMs](https://img.shields.io/badge/-LLMs-05122A?style=flat&logo=openai)
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash"/>
+  <img src="https://img.shields.io/badge/Scala-05122A?style=flat&logo=scala"/>
+</p>
+
+### 🤖 AI & Prompt Engineering
+<p>
+  <img src="https://img.shields.io/badge/Prompt%20Design-1F2937?style=flat"/>
+  <img src="https://img.shields.io/badge/Prompt%20Optimization-1F2937?style=flat"/>
+  <img src="https://img.shields.io/badge/LLM%20Workflows-1F2937?style=flat&logo=openai"/>
+  <img src="https://img.shields.io/badge/Prompt%20Evaluation-1F2937?style=flat"/>
+  <img src="https://img.shields.io/badge/RAG-1F2937?style=flat&logo=openai"/>
+  <img src="https://img.shields.io/badge/LangChain-1F2937?style=flat&logo=chainlink"/>
+  <img src="https://img.shields.io/badge/LangGraph-1F2937?style=flat&logo=graphql"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-1F2937?style=flat&logo=openai"/>
+  <img src="https://img.shields.io/badge/Vertex%20AI-1F2937?style=flat&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-1F2937?style=flat&logo=openai"/>
+</p>
+
+### 📊 Data & Analysis
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-05122A?style=flat&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/XGBoost-05122A?style=flat"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-05122A?style=flat"/>
+</p>
+
+### 🌐 Web & Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express"/>
+  <img src="https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask"/>
+  <img src="https://img.shields.io/badge/Django-05122A?style=flat&logo=django"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman"/>
+  <img src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-05122A?style=flat&logo=githubactions"/>
+  <img src="https://img.shields.io/badge/Jira-05122A?style=flat&logo=jira"/>
+  <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Azure-05122A?style=flat&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/GCP-05122A?style=flat&logo=googlecloud"/>
+</p>
