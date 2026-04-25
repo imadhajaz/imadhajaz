@@ -138,8 +138,8 @@
   <img src="https://img.shields.io/badge/LangChain-1F2937?style=flat&logo=chainlink"/>
   <img src="https://img.shields.io/badge/LangGraph-1F2937?style=flat&logo=graphql"/>
   <img src="https://img.shields.io/badge/AI%20Agents-1F2937?style=flat&logo=openai"/>
-  <img src="https://img.shields.io/badge/Vertex%20AI-1F2937?style=flat&logo=googlecloud"/>
   <img src="https://img.shields.io/badge/OpenAI%20API-1F2937?style=flat&logo=openai"/>
+  <img src="https://img.shields.io/badge/Anthropic-1F2937?style=flat&logo=googlecloud"/>
 </p>
 
 ### 📊 Data & Analysis
