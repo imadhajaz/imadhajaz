@@ -46,7 +46,7 @@
 
   → Completed system deployment aligning it for enterprise production use
 
-- 💻 **Machine Learning Engineer Intern**, [Vensora Inc.](https://www.linkedin.com/company/vensora-in/posts/?feedView=all), Dallas, TX, United States *(Remote — Sep 2025 to Dec 2025)*
+- 💻 **Data Science & AI/ML Engineer Intern**, [Vensora Inc.](https://www.linkedin.com/company/vensora-in/posts/?feedView=all), Dallas, TX, United States *(Remote — June 2025 to Aug 2025)*
 
   → Led development of an AI-powered platform for automated application and code generation from structured requirements
 
